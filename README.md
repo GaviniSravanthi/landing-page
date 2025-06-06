@@ -15,3 +15,7 @@ Technologies Used
 - HTML5
 - CSS3 (Flexbox, Media Queries)
 
+---
+## 📸 Preview
+
+![Blog Screenshot](Screenshot.png) 
